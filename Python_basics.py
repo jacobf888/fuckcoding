@@ -1,0 +1,1 @@
+print("isaac is gay")
